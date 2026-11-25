@@ -2,7 +2,7 @@
   "name": "crm-attribution",
   "display_name": "CRM Attribution",
   "description": "Multi-touch attribution, source normalization, campaign influence, offline conversions and cost allocation",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "capability",
   "provider": "Liberu\\CRM\\Attribution\\AttributionServiceProvider",
   "requires": {
